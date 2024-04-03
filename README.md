@@ -59,13 +59,13 @@ Specifically, the following files were used in the study:
     - 'LFB Mobilisation data from January 2016.csv'
     - 'LFB Mobilisation data Last 3 years January 2019 to August 2022.xlsx'
 
-<div><span style="background-color: #26241B; padding-top: 100px; padding-right: 20px; padding-bottom: 50px; padding-left: 20px; color: #FFFFFF; font-size: 24px; font-weight: bold">Conclusion and Recommendations </span></div>
+# Conclusion and Recommendations
 
-# Conclusions
+## Conclusions
 - We can conclude that the presence of people within their homes increased the number of reported incidents which is caused by the Pandemic.
 - Events that will prevent people from going out of their homes should be taken into account where the fire force should be increasing their resources to deal with a sudden spike of incidents
 
-# Recommendations
+## Recommendations
 - At times where the total response time is highest and since every second counts when it comes to first response to an incident to save lives, it is recommended to increase an alert level during longest response time to act as hot standby in case of an incident
 
 # References and Acknowledgments
